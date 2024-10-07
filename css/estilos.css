@@ -1,0 +1,8 @@
+#mi-contenedor {
+  background-color: lightblue; /* Color de prueba */
+  background-image: url('../imagenes/background.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 490px;
+}
